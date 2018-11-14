@@ -4,6 +4,6 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo() {
-  ng === ${name})
     return 'Happy holidays, ${name}!'
 }
+expect.global
