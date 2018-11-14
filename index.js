@@ -7,5 +7,4 @@ function happyHolidaysTo() {
     return 'Happy holidays, ${name}!'
 }
 
-global.expect =
-require('expect')
+name = 'you'
