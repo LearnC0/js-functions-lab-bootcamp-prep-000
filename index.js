@@ -8,5 +8,5 @@ function happyHolidaysTo() {
 }
 
 function happyHolidaysTo() {
-  return ''
+  console.log 
 }
