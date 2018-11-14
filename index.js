@@ -8,4 +8,4 @@ function happyHolidaysTo() {
 }
 
 global.expect =
-require
+require('expect')
