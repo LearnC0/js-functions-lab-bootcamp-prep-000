@@ -4,6 +4,6 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo() {
-  if (string.happyHolidaysTo() === string)
+  ng === ${name})
     return 'Happy holidays, ${name}!'
 }
